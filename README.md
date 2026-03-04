@@ -1,3 +1,8 @@
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parthrana-27/parthrana-27/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 <h1>Hi 👋, I'm Parth</h1>
 <p>A passionate developer from India building frontend experiences, ML-powered systems, and secure automation</p>
 <h2>🚀 Languages and Tools I Use</h2>
